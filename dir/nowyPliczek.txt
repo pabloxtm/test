@@ -3,3 +3,5 @@ Ala ma kota.
 
 kot
 kot
+
+dog
