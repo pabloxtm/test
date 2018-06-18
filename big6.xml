@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><data>
-<a>aaaaaaaaaa nowe test big EN |1 24</a>
-	<b>zmiana b</b>
+	
+	
+	<a>aaaaaaaaaa nowe test big EN |1 24</a>
+	<b>zmiana b PLtranslated</b>
 	<c>ccccccccccc nowe2 test regular PL |3 24</c>
 	<item name="nowy">nowy item6 big2 PL | 24</item>
 	<item name="nowy2">nowy item6 big2 PL |</item>
-	<item name="nowy3">nowy3</item>
+	<item name="nowy3">nowy3 PLtranslated</item>
 	<item name="nowy4">nowy item6 big2 PL |</item>
 	<item name="nowy5">nowy item6 big2 PL |</item>
 	<item name="nowy6">nowy item6 big2 PL |</item>
