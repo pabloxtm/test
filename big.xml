@@ -1,3 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<data><item name="nowy6">nowy item6 big2 PL</item>
+<data>
+	<a>aaaaaaaaaa  nowe test big</a>
+	<b>bbbbbbbbXYZKKKKKKKKKKKKKKKK</b>
+	<c>ccccccccccc nowe2 test regular</c>
+	<item name="nowy">nowy item big2</item>
+	<item name="nowy2">nowy item2 big2</item>
+	<item name="nowy3">nowy item3 big2</item>
+	<item name="nowy4">nowy item4 big2</item>
+	<item name="nowy5">nowy item4 big2</item>
+	<item name="nowy6">nowy item6 big2</item>
 </data>
